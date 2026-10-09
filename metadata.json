@@ -1,0 +1,6 @@
+{
+  "name": "LUTTUR MOTEL - Pure Vegetarian Restaurant",
+  "description": "Award-winning 3D restaurant website for LUTTUR MOTEL in Jalalpur, Jaunpur, Uttar Pradesh. Featuring authentic Indian vegetarian, North Indian, Chinese & Tandoori cuisine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
